@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MultiFaceRec" GeneratedClassName="MainSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sourceDbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\YandexDisk\Документы\univer\биометрика\лабораторная\Face</Value>
+    </Setting>
+    <Setting Name="formattedDbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\YandexDisk\Документы\univer\биометрика\лабораторная\FaceSplit\FormattedDb</Value>
+    </Setting>
+    <Setting Name="testDbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\YandexDisk\Документы\univer\биометрика\лабораторная\FaceSplit\TestDb</Value>
+    </Setting>
+    <Setting Name="trainedLabelsFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TrainedLabels.txt</Value>
+    </Setting>
+    <Setting Name="maxLastDistance" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
